@@ -1,0 +1,8 @@
+---
+title: "Welcome to Website_quarto_Mag"
+---
+
+hi:) My name is Maggie Z. A student in STA304, I don't know what I'm doing...
+
+```{}
+```
